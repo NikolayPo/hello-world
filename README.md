@@ -1,5 +1,3 @@
 # hello-world
 well here we go
-zxcvbn
-bn
-s
+srsly pretending to code here
